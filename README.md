@@ -1,4 +1,4 @@
-# Java_Collections
+# Collections_LinkedList
 
 - 필요한 기술들을 하나씩 추가하며 ArrayList를 직접 구현했습니다.
 
